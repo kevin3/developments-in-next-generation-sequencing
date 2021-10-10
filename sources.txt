@@ -22,7 +22,10 @@ Sources
 20	http://www.illumina.com/systems/miniseq/specifications.html
 21	https://www.thermofisher.com/no/en/home/life-science/sequencing/next-generation-sequencing/ion-torrent-next-generation-sequencing-workflow/ion-torrent-next-generation-sequencing-run-sequence/ion-s5-ngs-targeted-sequencing/ion-s5-specifications.html
 22	https://nanoporetech.com/products/specifications
-	
+23	https://www.illumina.com/systems/sequencing-platforms/novaseq/specifications.html
+24	https://www.thermofisher.com/order/catalog/product/A45727#/A45727 #throughput estimated
+25	https://sapac.illumina.com/systems/sequencing-platforms.html
+
 Some more sources	
 	http://www.politigenomics.com/next-generation-sequencing-informatics
 	http://www.clcngs.com/2008/12/ngs-platforms-overview/
